@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / 前端
+xwzx-news/node_modules/
+xwzx-news/dist/
+
+# IDE 与编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 环境变量（如果以后把密钥抽到 .env）
+.env
+.env.local
